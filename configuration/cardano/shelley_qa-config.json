@@ -1,4 +1,6 @@
 {
+  "AlonzoGenesisFile": "mainnet-alonzo-genesis.json",
+  "AlonzoGenesisHash": "02846121d1b8b8ecf3ce9739d46352c2b504148b4f93f1937dea66b6f0f681c7",
   "ApplicationName": "cardano-sl",
   "ApplicationVersion": 0,
   "ByronGenesisFile": "shelley_qa-byron-genesis.json",
@@ -11,7 +13,7 @@
   "Protocol": "Cardano",
   "RequiresNetworkMagic": "RequiresMagic",
   "ShelleyGenesisFile": "shelley_qa-shelley-genesis.json",
-  "ShelleyGenesisHash": "85d1783750753deaa6560158eb85fcb30078ea32a36e12dd8af39168bc053d09",
+  "ShelleyGenesisHash": "6ae5f538a1c8829e726f04dd482a5f262b5f57e5c5c52ebea1c2b0263b2a8c9e",
   "TestShelleyHardForkAtEpoch": 2,
   "TraceBlockFetchClient": false,
   "TraceBlockFetchDecisions": false,
