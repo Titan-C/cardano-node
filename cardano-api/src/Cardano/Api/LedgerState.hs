@@ -264,7 +264,7 @@ foldBlocks nodeConfigFilePath socketPath enableValidation state0 accumulate = do
   let connectInfo :: LocalNodeConnectInfo CardanoMode
       connectInfo =
           LocalNodeConnectInfo {
-            localConsensusModeParams = CardanoModeParams (EpochSlots 21600),
+            localConsensusModeParams = CardanoModeParams (EpochSlots 360),
             localNodeNetworkId       = networkId,
             localNodeSocketPath      = socketPath
           }
